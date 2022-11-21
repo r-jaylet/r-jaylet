@@ -5,5 +5,5 @@
 - 📈 Interested in software engineering, artificial intelligence, sustainability and other cool stuff...
 - 💥 Passionate about art, zythology, photography and sports.
 - 📫 Email me at remi.jaylet@hotmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/r%C3%A9mi-jaylet-b75232190/).
-- 📁 Looking for opportunities in data, quantitative analysis or business intelligence.
+- 📁 Looking for opportunities in data science or business intelligence.
 <!-- - 📁 Looking for a summer internship in data science, quantitative analysis or business intelligence starting may 2022. ... -->
